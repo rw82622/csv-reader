@@ -15,5 +15,5 @@ class Animals():
             print(f"Sorry, we don't have any {self.userInput} here.")
             
 
-animal1 = Animals("goat")
+animal1 = Animals("dogs")
 animal1.getData()
